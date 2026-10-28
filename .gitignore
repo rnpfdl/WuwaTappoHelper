@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build output
+build/
+build_final/
+dist/
+dist_final/
+*.spec
+*.exe
+*.zip
+*.7z
+
+# Local data
+config.json
+stats.json
+app.log
+uia_test.json
+parsed_data.json
+
+# Test / preview files
+*_preview.png
+preview_*.png
+ach_preview*.png
+guide_preview*.png
+settings_preview*.png
+simple_preview.png
+pet_preview.png
+界面预览.png
+桌宠预览.png
+简洁值守预览.png
+成就预览.png
+设置预览.png
+
+# Environment
+.venv/
+venv/
+.env
